@@ -1,2 +1,2 @@
-# Estat-stica
-Aula de Estatística em Python
+# Estatistica
+Aula de Estatística Computacional em Python
